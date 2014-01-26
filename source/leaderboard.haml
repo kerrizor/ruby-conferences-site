@@ -1,0 +1,12 @@
+%article#leaderboard
+  %h1 Leaderboard
+  %dl
+    - for leader in data.leaders do
+      %dt
+        = leader.talks.count
+        = leader.name
+
+      %dd
+        %ul
+          - for talk in leader.talks do
+            %li #{talk.title} at #{talk.event_name}

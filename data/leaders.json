@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Arnab Deka",
+    "talks": [
+      {
+        "title": "I've got your number: Machine Learning in Ruby",
+        "event_name": "Garden City RubyConf 2014"
+      },
+      {
+        "title": "Modern Concurrency Practices in Ruby",
+        "event_name": "RubyConf Australia 2014"
+      }
+    ]
+  },
+  {
+    "name": "Chad Fowler",
+    "talks": [
+      {
+        "title": "Keynote",
+        "event_name": "Garden City RubyConf 2014"
+      },
+      {
+        "title": "Panel Discussion",
+        "event_name": "Garden City RubyConf 2014"
+      }
+    ]
+  },
+  {
+    "name": "Mark Bates",
+    "talks": [
+      {
+        "title": "Go for the Rubyist",
+        "event_name": "Los Angeles Ruby Conference 2014"
+      },
+      {
+        "title": "A Big Look at MiniTest",
+        "event_name": "RubyConf Australia 2014"
+      }
+    ]
+  },
+  {
+    "name": "Yogi Kulkarni",
+    "talks": [
+      {
+        "title": "Lessons Learnt Building India's Largest E-Commerce Supply Chain in Ruby",
+        "event_name": "Garden City RubyConf 2014"
+      },
+      {
+        "title": "Panel Discussion",
+        "event_name": "Garden City RubyConf 2014"
+      }
+    ]
+  }
+]
